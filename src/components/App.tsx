@@ -1,5 +1,6 @@
 import React from "react";
 import FirstComponent from "./FirstComponent";
+import "./App.css";
 
 function App() {
     return (
