@@ -1,9 +1,11 @@
-import React from 'react';
+import React from "react";
+import FirstComponent from "./FirstComponent";
 
 function App() {
     return (
-      <div className="App">
+      <div>
         <h1>Hello world !</h1>
+        <FirstComponent />
       </div>
     );
   }
