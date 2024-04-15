@@ -1,0 +1,1 @@
+gebaseerd op https://mrseanbaines.medium.com/how-to-write-a-minimal-react-boilerplate-from-scratch-85ba17757040
